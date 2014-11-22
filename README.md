@@ -1,3 +1,3 @@
 # Learning Ruby
 
-I'm trying to make a mock pinterest app.
+This is a mock pinterest app
