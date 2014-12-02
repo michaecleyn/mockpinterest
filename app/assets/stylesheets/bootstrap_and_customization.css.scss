@@ -1,8 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
-$body-bg: #bdc3c7;
-$jumbotron-bg: #7f8c8d;
-$jumbotron-color: #fff;
-$navbar-default-bg: #7f8c8d;
-$navbar-default-link-color: #fff;
-$navbar-default-link-hover-color: #fff;
+$font-family-sans-serif:			"Lato" "Helvetica Neue", Helvetica, Arial, sans-serif;
+$body-bg: 							#ecf0f1;
+$jumbotron-bg: 						#fff;
+$jumbotron-color: 					#c0392b;
+$navbar-default-bg: 				#fff;
+$navbar-default-link-color: 		#c0392b;
+$navbar-default-link-active-color:	#c0392b;
+$navbar-default-link-hover-color: 	#e74c3c;
+$btn-primary-color: 				#fff;
+$btn-primary-bg:					#c0392b;
+
+.center {
+	text-align: center;
+}
+
 @import 'bootstrap';
