@@ -29,12 +29,12 @@ gem 'bootstrap-sass'
 
 
 group :development, :test do
-	gem 'sqlite3'
-	gem 'rails_12factor'
+  gem 'sqlite3'
+  gem 'rails_12factor'
 end
 
 group :production do 
-	gem 'pg'
+  gem 'pg'
 end
 
 
