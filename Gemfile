@@ -29,6 +29,7 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 3.0'
 
 
 group :development, :test do
